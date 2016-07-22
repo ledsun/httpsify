@@ -1,16 +1,16 @@
 {
-  "name": "httpsify",
+  "name": "script-src-httpsify",
   "description": "A browserify transform to replace http of script sources to https.",
   "version": "0.0.1",
   "author": "shigeru.nakajima@gmail.com",
   "bugs": {
-    "url": "https://github.com/ledsun/httpsify/issues"
+    "url": "https://github.com/ledsun/script-src-httpsify/issues"
   },
   "devDependencies": {
     "cpx": "^1.3.2",
     "mocha": "^2.5.3"
   },
-  "homepage": "https://github.com/ledsun/httpsify",
+  "homepage": "https://github.com/ledsun/script-src-httpsify",
   "keywords": [],
   "license": "MIT",
   "main": "index.js",
@@ -19,7 +19,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:ledsun/httpsify.git"
+    "url": "git@github.com:ledsun/script-src-httpsify.git"
   },
   "scripts": {
     "test": "mocha"
